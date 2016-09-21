@@ -2,7 +2,7 @@
 
 Test for **Hello world** readme file.
 ## hello
-*Some text in **italic** font*
+*Some text in __italic__ font*
 
 ### hello
 **Some more text in bold font**
