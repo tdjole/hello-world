@@ -1,8 +1,8 @@
 # hello-world
 
-Test for Hello world readme file.
+Test for **Hello world** readme file.
 ## hello
-Some text
+*Some text in **italic** font*
 
 ### hello
-Some more text
+**Some more text in bold font**
