@@ -1,8 +1,10 @@
 # hello-world
 
 Test for **Hello world** readme file.
-## hello
+## Heading 2
 *Some text in __italic__ font*
 
-### hello
+### Heading 3
 **Some more text in bold font**
+
+Added [link to Google] (http://google.com)
